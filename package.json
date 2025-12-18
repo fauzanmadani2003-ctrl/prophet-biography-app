@@ -1,0 +1,32 @@
+{
+  "name": "prophet-biography-app",
+  "version": "1.0.0",
+  "description": "A biography application dedicated to Prophet Mohammed (PBUH), featuring reliable sources and a timeline of significant events.",
+  "main": "src/index.tsx",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "keywords": [
+    "biography",
+    "Prophet Mohammed",
+    "PBUH",
+    "Islam",
+    "history"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3",
+    "react-router-dom": "^5.2.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.1.2",
+    "@types/react": "^17.0.0",
+    "@types/react-dom": "^17.0.0"
+  }
+}
